@@ -1,0 +1,23 @@
+index:
+  title: Building The Future Now
+  subtitle: "A Digital Library of Strategies and Case Studies on Horizontalism, Intersectionality &amp; Prefigurative Politics"
+  intro: "Current realities can make it hard to dream big and imagine the future we want to live in. This makes it critical then for us to ground our political work in our vision of a better world. To move forward in ways that are strategic, experimental and transformative. We share with you here our ideas, our practices, and our vision as an affirming echo, or even inspiration, for your work and daily life."
+
+nav:
+  about: About
+  contact: Contact
+  memes: Participate
+  download: Download
+
+contact:
+  name: Name
+  email: Email
+  subject: Subject
+  message: Message
+  submit: Send Message
+  textarea: "What's Happening?"
+  option1: "What's up?"
+  option2: "I want to make zines"
+  option3: "I want to make memes"
+  option4: "I want to join your club"
+  option5: "I want coffee"

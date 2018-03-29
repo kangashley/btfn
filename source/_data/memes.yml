@@ -1,0 +1,36 @@
+- name: life is hard
+  image: https://dummyimage.com/800x800/bbb/fff
+  twitter: life is hard
+  facebook: https://facebook.com
+  instagram: https://instagram.com
+  pinterest: https://pinterest.com
+- name: idk anymore
+  image: https://dummyimage.com/800x800/ff0/000
+  description: idk anymore
+  facebook: https://facebook.com
+  instagram: https://instagram.com
+  pinterest: https://pinterest.com
+- name: yay finally
+  image: https://dummyimage.com/800x800/f00/000
+  twitter: yay finally
+  facebook: https://facebook.com
+  instagram: https://instagram.com
+  pinterest: https://pinterest.com
+- name: why am i still awake?
+  image: https://dummyimage.com/800x800/bbb/fff
+  twitter: why am i still awake?
+  facebook: https://facebook.com
+  instagram: https://instagram.com
+  pinterest: https://pinterest.com
+- name: cuida la tierra
+  image: https://dummyimage.com/800x800/ff0/000
+  twitter: cuida la tierra
+  facebook: https://facebook.com
+  instagram: https://instagram.com
+  pinterest: https://pinterest.com
+- name: so many things
+  image: https://dummyimage.com/800x800/f00/000
+  twitter: so many things
+  facebook: https://facebook.com
+  instagram: https://instagram.com
+  pinterest: https://pinterest.com

@@ -1,0 +1,46 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+
+title: Building The Future Now
+subtitle: "A Digital Library of Strategies and Case Studies on Horizontalism, Intersectionality &amp; Prefigurative Politics"
+description: "A Digital Library of Strategies and Case Studies on Horizontalism, Intersectionality &amp; Prefigurative Politics"
+author: LA COiL
+language:
+- en
+- es
+timezone: UTC
+
+# URL
+url: https://futurenow.org
+root: /
+permalink: archives/:year/:month/:day/:title/
+
+# Directory
+archive_dir: archives
+code_dir: code
+
+# Writing
+new_post_name: :title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+highlight:
+  enable: true
+  line_number: false
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: coil
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: git@github.com:kittenlogic/coil.git
+
+# Accounts
+disqus_shortname: losangelescoil
+google_analytics: UA-XXXXXXXX-X
+fb_admins: 100000888888880
+twitter: losangelescoil
+github: kittenlogic/coil

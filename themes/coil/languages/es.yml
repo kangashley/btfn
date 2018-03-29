@@ -1,0 +1,23 @@
+index:
+  title: Construyendo el Futuro Ahora
+  subtitle: "Una Biblioteca Digital de Estrategias y Estudios de Casos sobre Horizontalidad, Interseccionalidad y Política Prefigurativa"
+  intro: "Las realidades actuales pueden hacer que sea difícil soñar en grande o imaginar el futuro en el que queremos vivir. Esto hace que sea fundamental para nosotros basar nuestro trabajo político en nuestra visión de un mundo mejor. Avanzar de forma estratégica, experimental y transformadora. Compartimos con ustedes aquí nuestras ideas, nuestras prácticas y nuestra visión como un eco afirmativo, o incluso una inspiración, para su trabajo y su vida diaria."
+
+nav:
+  about: Sobre
+  contact: Contacto
+  memes: Participe
+  download: Descargar
+
+contact:
+  name: Nombre
+  email: Email
+  subject: Tema
+  message: Messaje
+  submit: Envia Mensaje
+  textarea: "¿Que cuentas?"
+  option1: "¿Que pasa?"
+  option2: "Quiero hacer zines"
+  option3: "Quiero hacer memes"
+  option4: "Quiero unirme a tu club"
+  option5: "Quiero cafe"
