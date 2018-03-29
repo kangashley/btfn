@@ -9,8 +9,8 @@ Built with Hexo. Forked from [hexojs/hexojs.github.io](https://github.com/hexojs
 Install dependencies:
 
 ``` bash
-$ git clone https://github.com/kittenlogic/coil.git
-$ cd project
+$ git clone https://github.com/kittenlogic/btfn.git
+$ cd btfn
 $ npm install
 ```
 
