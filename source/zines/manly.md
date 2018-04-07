@@ -1,6 +1,6 @@
 layout: zine
 permalink: zines/anti-colonialism/
-description: Anti-Colonialism: A 'Manly' Fight?
+description: "Anti-Colonialism: A 'Manly' Fight?"
 bannerimg: banner-manly.gif
 class: manly
 comments: true
