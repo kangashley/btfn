@@ -1,12 +1,12 @@
 layout: zine
 permalink: zines/unbreakapartable-struggle/
 description: "The Limitations of Intersectionality without Unbreakapartable Struggle"
-bannerimg: banner-/unbreakapartable.jpg
-class: /unbreakapartable
+bannerimg: banner-unbreakapartable.jpg
+class: unbreakapartable
 comments: true
 ---
 
-<h2>The Limitations of Intersectionality without Unbreakapartable Struggle</h2>
+<h2>Unbreakapartable Struggle</h2>
 
 Across the planet, we are seeing the forces of oppression and repression grow in strength as they attempt to further impoverish the world’s population for their own gain and smash movements of resistance that stand in their way.  Such mass movements of resistance can be the embryos of a new social order based on a liberatory vision by and for humanity. 
 

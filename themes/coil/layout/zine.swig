@@ -1,5 +1,5 @@
 <!--START: HERO-->  
-<section class="hero is-coil-theme is-medium">
+<section class="hero is-light-theme is-medium">
   {{ partial('partial/nav') }}
 </section>
 <section class="banner">
