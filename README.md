@@ -1,8 +1,7 @@
 # Building the Future with Hexo
 <!-- Markdown snippet -->
-[![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
 
-Built with Hexo. Forked from [hexojs/hexojs.github.io](https://github.com/hexojs/hexojs.github.io) repository.
+Custom theme for LA COiL's site, _Builing the Future Now_. Built with Hexo. Using Stylus, Swig templates, Markdown. Includes multi-language support and Netlify CMS layer. External libraries: Bulma, Wow.js, Animate.css, FontAwesome.
 
 ## Getting started
 

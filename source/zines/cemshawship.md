@@ -1,10 +1,12 @@
 layout: zine
 permalink: zines/cemscawship/
-description: 'Cemscawship acronym'
+description: 'Cemscawship'
 bannerimg: banner-cemscawship.gif
 class: cemscawship
 comments: true
 ---
+
+<h2>Cemscawship</h2>
 
 A few years ago we got sick of both using “capitalism” as shorthand for our understanding of intersecting oppressions and systems AND we got tired of listing out said oppressions and systems.  So we made up an acronym!
 

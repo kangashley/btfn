@@ -1,11 +1,14 @@
 layout: zine
 permalink: zines/wtf-happened-in-the-20th-century/
-description: 'WTF happened in the 20th century?!'
+description: WTF happened in the 20th century?!
 bannerimg: banner-wtf.gif
 class: wtf
 comments: true
 ---
-Capitalism and the State have proved to be much more resilient Marx predicted they would in the Communist Manifesto. The 20th Century was full of experiments of people rising up to challenge and contend for state power, and with top-down socialism and communism alternatives. We think it's worthwhile to learn from those experiments, even though we are not interested in replicating them. For us, it's helpful to understand where and why they went off course, and get insight into how we ended up where we are today.
+
+<h2>WTF happened in the 20th century?!</h2>
+
+Capitalism and the State have proved to be much more resilient Marx predicted they would in the [Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/). The 20th Century was full of experiments of people rising up to challenge and contend for state power, and with top-down socialism and communism alternatives. We think it's worthwhile to learn from those experiments, even though we are not interested in replicating them. For us, it's helpful to understand where and why they went off course, and get insight into how we ended up where we are today.
 
 When we are building relationships with people who are newer to understanding this history we find the following texts helpful in breaking down this history: 
 

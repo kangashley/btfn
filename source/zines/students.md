@@ -1,0 +1,13 @@
+layout: zine
+permalink: zines/students-deserve/
+description: "Students Deserve: LAUSD students lead the fight against a racist and classist school system"
+bannerimg: banner-students.jpg
+class: students
+comments: true
+---
+
+<h2>Students Deserve</h2>
+
+Black Lives Matter, whose founders were deeply influenced by the Combahee River Collective statement (hyperlink to this example in the pamphlet), brought to the forefront the moral and strategic importance of centering black, trans, women, and immigrant people’s experiences and oppressions as essential to humanity’s liberation. The Movement for Black Lives Students Deserve to translate the demand to end racist-classist-sexist policing into a demand for Making Black Lives Matter in Schools in Los Angeles, California, USA.  This means challenging the culture, funding, and policies that pose policing as the solution to problems in schools.  Youth in Los Angeles Unified School District are challenging campus policing and daily random searches that target students who are Black, Muslim, undocumented, and queer.  This policing reflects the transphobic, homophobic, Islamaphobic, xenophobic, sexist, anti-Black ways that policing affects poor and working class students and communities of color.  Students are creating horizontalist spaces around the city and using prefigurative practices, like deciding strategy, running their own weekly meetings at schools, and facilitating monthly city-wide assemblies. 
+
+These spaces grow new leadership by Black, Muslim, female, queer, and undocumented students. The organizing principle here is that when Black people get free, we all get free.  Centering Black liberation in a way that is very intersectional has meant that students are working through how to challenge anti-Black racism without invisibilizing oppressions that Black people and others also face.  Students work with parents and teachers to promote a visionary solution called Community Schools: fully-funded schools in one’s own low-income community so  youth don’t have to leave their neighborhoods in search of well-resourced schools elsewhere.  Community Schools are a constructive contrast to current oppressive schooling that upholds policing and thrives off of historical exploitation of communities of color.  Poor Black and Brown neighborhoods of L.A. have been targeted for closures and expansion of charter schools, and these schools are historically underfunded under the racialized capitalism of the the state.  The twin demands for Community Schools AND ending random searches brings rights, resources, and dignity to the most oppressed communities in Los Angeles while growing deep leadership.

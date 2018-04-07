@@ -22,8 +22,8 @@
           <a class="navbar-item" href="{{ url_for_lang('') }}memes">
             {{__('nav.memes')}}
           </a>
-          <a class="navbar-item" href="{{ url_for_lang('') }}download">
-            {{__('nav.download')}}
+          <a class="navbar-item" href="{{ url_for_lang('') }}resources">
+            {{__('nav.resources')}}
           </a>
           <a class="navbar-item">
             <div id="lang-select-wrap">

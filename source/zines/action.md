@@ -1,0 +1,23 @@
+layout: zine
+permalink: zines/intersectionality-in-action/
+description: "Intersectionality in Action"
+bannerimg: banner-action.jpg
+class: action
+comments: true
+---
+
+<h2>Intersectionality in Action</h2>
+
+In organizing around public education, some of us have tried to push for an intersectional understanding of both the crisis and the shape of the resistance. Working within the Los Angeles teachers union we have pushed to expand often narrowly defined union struggles around budget cuts that focus on jobs, salaries, and healthcare to further incorporate the concerns of students or communities. These struggles have meant we needed to educate ourselves and others about how the education crisis intersects with immigration, race, language, and historic denial of access to and control over educational institutions. We and others pushed for the union and ourselves to take responsibility for the quality of education as well as to address the devastation of budget cuts on other parts of the public sector. Otherwise, we believe we will be unsuccessful in building allies and in organizing a vigorous defense of public education in general.
+
+We work within the Los Angeles Teachers Union today because we believe it’s important to build a sense of collective investment in a shared future, and to counter the trend of low- wage workers and families fighting one another for crumbs. We raise questions that urge union members to discuss and better understand how we can stop reproducing exploitation, gain consciousness of ourselves as members of the working class and to fight for material gains for the entire working class. Through this we can move the work of the union beyond a focus on bread & butter issues to a bigger vision of solidarity and liberation.
+
+We talk about how as public sector workers, the resources needed to improve education will be taken from other social services such as public health care, and that therefore we must demand more funding for all public services from the state. Addressing how hierarchical and bureaucratic unions are often helps point to the ways in which their purpose is to negotiate with capitalists for better deals for subsets of workers promoting the idea that all workers can move into the middle class, propagating the myth of the American dream.
+
+We organize with our co-workers for contracts that include not only pay and benefits, but also gains to support our students and their communities, through demands around smaller class sizes and bilingual education. We’ve seen how powerful organizing with teachers in a union context can be when directly linked to organizing with students, parents, and communities to transform the whole educational system.
+
+On the other hand, well-intended struggles in education that don’t center an intersectional analysis and engage struggle intersectionally can have devastating effects for communities and organizations. We see this clearly in the United Federation of Teachers’ successful opposition to the establishment of community control over the New York City public school system in 1968. As recounted by Richie Perez,
+
+"Responding to growing militancy in communities of color, a plan to "decentralize" the New York City school system was drafted by the Lindsay administration; it called for the establishment of local community school boards with limited powers. This was not the "community control" that our communities had fought for; and ultimate power remained in the hands of the central Board of Education, and the teachers’ and supervisor’s unions. Despite this, the United Federation of Teachers, led by Albert Shanker, bitterly opposed any "civilian interference" in the running of the schools. The UFT called a teacher’s strike which lasted 90 days. During this time, the city was polarized even further with charges of "anti-Semitism" being launched against Black and Puerto Rican community control advocates and "white racism" being charged against the teacher’s union. Centers of community control activism were located in Ocean Hill-Brownsville, Harlem, El Barrio, the Lower East Side, and the South Bronx, where United Bronx Parents (led by Evelina Antonetty, Dona Rosa Escobar, and others whose roles must be documented) played a pivotal role in organizing parents and students."
+
+Both groups ended up losing–the community was left with no voice and little meaningful reform; and the union became more alienated from the community and was unable to protect or push for meaningful advances for members, much less for students.

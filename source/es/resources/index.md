@@ -1,3 +1,3 @@
 layout: page
-title: Descargar
+title: Recursos
 ---
