@@ -12,6 +12,10 @@
     {{ page.content }}
   </div>
 </section>
+<!--START: ZINE LIBRARY-->    
+{{ partial('partial/zines') }}
+<!--END: ZINE LIBRARY-->
+
 <!--<section class="section">
 	<div class="container zine-pagination">
     <div class="columns is-mobile">
@@ -24,7 +28,5 @@
     </div>   
 	</div>
 </section>-->
-<!--START: ZINE LIBRARY-->    
-{{ partial('partial/zinemenu') }}
-<!--END: ZINE LIBRARY-->
+
 <!--END: MAIN-->

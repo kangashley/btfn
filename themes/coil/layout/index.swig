@@ -38,5 +38,5 @@
 </section>
 <!--END: INTRO-->
 <!--START: ZINE LIBRARY-->    
-{{ partial('partial/zines') }}
+{{ partial('partial/zine_index') }}
 <!--END: ZINE LIBRARY-->
