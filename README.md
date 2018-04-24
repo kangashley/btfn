@@ -1,7 +1,7 @@
 # Building the Future with Hexo
 <!-- Markdown snippet -->
 
-Custom theme for LA COiL's site, _Builing the Future Now_. Built with Hexo. Using Stylus, Swig templates, Markdown. Includes multi-language support and Netlify CMS layer. External libraries: Bulma, Wow.js, Animate.css, FontAwesome.
+Custom theme for LA COiL's site, _Building the Future Now_. Built with Hexo. Using Stylus, Swig templates, Markdown. Includes multi-language support and Netlify CMS layer. External libraries: Bulma, Wow.js, Animate.css, FontAwesome.
 
 ## Getting started
 
